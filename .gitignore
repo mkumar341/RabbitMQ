@@ -1,0 +1,9 @@
+src - Copy/
+src/RabbitMQ/bin/
+src/RabbitMQ/obj/
+src/RabbitMQ-RPC/obj/
+src/RPCClient/bin/
+src/RPCClient/obj/
+src/RPCServer/bin/
+src/RPCServer/obj/
+src/RabbitMQ-RPC/.vs/
