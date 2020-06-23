@@ -11,3 +11,4 @@ src/PublisherClient/obj/
 src/PublisherClient/bin/
 src/ConsumerServer/obj/
 src/ConsumerServer/bin/
+.vs/
