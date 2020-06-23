@@ -7,3 +7,7 @@ src/RPCClient/obj/
 src/RPCServer/bin/
 src/RPCServer/obj/
 src/RabbitMQ-RPC/.vs/
+src/PublisherClient/obj/
+src/PublisherClient/bin/
+src/ConsumerServer/obj/
+src/ConsumerServer/bin/
